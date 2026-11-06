@@ -1,0 +1,2 @@
+# erec-power
+Static site
