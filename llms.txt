@@ -1,0 +1,26 @@
+# ErecPower
+
+> ErecPower is a Men's Vitality & Sexual Health Supplement. ErecPower is an all-natural dietary supplement sold as a daily capsule designed to support male vitality, healthy circulation, steady energy, and sexual wellness. It is positioned as a straightforward daily formula rather than an instant fix, and it is aimed at men who want to maintain or improve their day-to-day performance and confidence using plant-based and nutrient ingredients. The product is marketed for general wellness support and is not a prescription drug or a treatment for any diagnosed condition.
+
+## Pages
+- [Home — overview, pricing and FAQ](https://erec-power.onrender.com/)
+- [What ErecPower is](https://erec-power.onrender.com/what-is-product.html)
+- [How ErecPower works](https://erec-power.onrender.com/how-it-works.html)
+- [ErecPower ingredients, explained individually](https://erec-power.onrender.com/ingredients.html)
+- [ErecPower benefits](https://erec-power.onrender.com/benefits.html)
+- [ErecPower customer reviews](https://erec-power.onrender.com/reviews.html)
+- [ErecPower frequently asked questions](https://erec-power.onrender.com/faq.html)
+
+## Blog
+- [What To Know Before Trying ErecPower](https://erec-power.onrender.com/blog/what-to-know-before-trying.html): A clear, honest look at ErecPower — what it contains, how it is used, what it costs, and the guarantee behind it — before you decide to order.
+- [How To Read A Supplement Label](https://erec-power.onrender.com/blog/how-to-read-a-supplement-label.html): Serving size, proprietary blends and other ingredients explained — using ErecPower's own label as a real example of what to look for.
+- [ErecPower: An Honest Review](https://erec-power.onrender.com/blog/erecpower-honest-review.html): An honest look at ErecPower — what it claims to do, what it actually contains, what it costs, and who it is realistically a good fit for.
+- [L-Arginine vs Horny Goat Weed: What Each Does In ErecPower](https://erec-power.onrender.com/blog/l-arginine-vs-horny-goat-weed.html): L-Arginine and Horny Goat Weed are both in ErecPower but play different roles — here is what each one actually does in the formula.
+- [Daily Habits That Complement ErecPower](https://erec-power.onrender.com/blog/daily-habits-that-complement-it.html): Simple daily habits — hydration, timing, consistency — that pair well with ErecPower as part of a men's vitality & sexual health routine.
+- [ErecPower FAQ: Dosage, Timing, Who Should Skip It](https://erec-power.onrender.com/blog/erecpower-faq.html): Common questions about ErecPower — dosage, timing, the guarantee, and who should skip it — answered directly.
+- [Terms of Use](https://erec-power.onrender.com/terms.html)
+- [Privacy Policy](https://erec-power.onrender.com/privacy-policy.html)
+- [Disclaimer](https://erec-power.onrender.com/disclaimer.html)
+- [Refund Policy](https://erec-power.onrender.com/refund-policy.html)
+- [About Us](https://erec-power.onrender.com/about.html)
+- [Contact Us](https://erec-power.onrender.com/contact.html)
